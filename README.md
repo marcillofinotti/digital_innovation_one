@@ -15,6 +15,13 @@ Cursos:
    - Mentoria (Live)- Live de Lançamento: Suzano - Python Developer
 
 - Sintaxe Básica com Python (5 atividades)
+   - Tipos de Operadores com Python
+   - Estruturas Condicionais e de Repetição em Python
+   - Manipulando Strings com Python
+   - Dominando Funções Python
+   - Criando um Sistema Bancário com Python
+     Link de acesso ao desafio:
+     https://github.com/marcillofinotti/digital_innovation_one/M2_Sintaxe_Básica_com_Python/32_desafio.py
 
 - Trabalhando com Coleções em Python (8 atividades)
 
@@ -25,4 +32,4 @@ Cursos:
 - Integrando com Serviços de IA (7 atividades)
 
 
-https://github.com/marcillofinotti/digital_innovation_one/M2_Sintaxe_Básica_com_Python/32_desafio.py
+
