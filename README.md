@@ -2,7 +2,7 @@
 Cursos, Exercícios e Desafios
 
 Bootcamp Suzano - Python Developer.
-   Exercícios e desafios realizados para desenvolver e praticar os conceitos apresentados.
+    Exercícios e desafios realizados para desenvolver e praticar os conceitos apresentados.
 
 Cursos:
 - Introdução ao Ambiente Python e Projetos Colaborativos (7 atividades)
