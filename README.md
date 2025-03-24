@@ -19,11 +19,17 @@ Cursos:
    - Estruturas Condicionais e de Repetição em Python
    - Manipulando Strings com Python
    - Dominando Funções Python
-   - Criando um Sistema Bancário com Python
-     - Link de acesso ao desafio:
-     https://github.com/marcillofinotti/digital_innovation_one/M2_Sintaxe_Básica_com_Python/32_desafio.py
+   - Desafio de Projeto: Criando um Sistema Bancário com Python
 
 - Módulo 3: Trabalhando com Coleções em Python (8 atividades)
+   - Trabalhando com Listas em Python
+   - Conhecendo Tuplas em Python
+   - Explorando Conjuntos em Python
+   - Aprendendo a Utilizar Dicionários em Python
+   - Lidando com Data, Hora e Fuso Horário no Python
+   - Otimizando o Sistema Bancário com Funções Python
+   - Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional
+   - Desafio de Código: Gestão e Controle de Transações Bancárias
 
 - Módulo 4: Programação Orientada a Objetos com Python (8 atividades)
 
