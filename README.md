@@ -32,6 +32,14 @@ Cursos:
    - Desafio de Código: Gestão e Controle de Transações Bancárias
 
 - Módulo 4: Programação Orientada a Objetos com Python (8 atividades)
+   - Introdução à Programação Orientada a Objetos (POO) com Python
+   - Aprendendo o Conceito de Herança com Python
+   - Aplicando Encapsulamento em Python
+   - Conhecendo Polimorfismo em Python
+   - Interfaces e Classes Abstratas com Python
+   - Modelando o Sistema Bancário em POO com Python
+   - Desafio de projeto
+   - Desafio de Código: Fundamentos de POO em Sistemas Bancários
 
 - Módulo 5: Produtividade com Microsoft Copilot Studio (11 atividades)
 
