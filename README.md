@@ -38,7 +38,7 @@ Cursos:
    - Conhecendo Polimorfismo em Python
    - Interfaces e Classes Abstratas com Python
    - Modelando o Sistema Bancário em POO com Python
-   - Desafio de projeto
+   - Desafio de projeto: Criando um Pacote de Processamento de Imagens com Python
    - Desafio de Código: Fundamentos de POO em Sistemas Bancários
 
 - Módulo 5: Produtividade com Microsoft Copilot Studio (11 atividades)
