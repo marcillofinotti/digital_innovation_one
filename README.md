@@ -42,8 +42,14 @@ Cursos:
    - Desafio de Código: Fundamentos de POO em Sistemas Bancários
 
 - Módulo 5: Produtividade com Microsoft Copilot Studio (11 atividades)
-
-- Módulo 6: Integrando com Serviços de IA (7 atividades)
-
-
-
+   - Conhecendo o Microsoft Copilot Studio
+   - Trabalhando com Ambientes no Microsoft Copilot Studio
+   - Criando seu primeiro Copiloto no Microsoft Copilot Studio
+   - Introdução aos Tópicos no Microsoft Copilot Studio
+   - Ramificando um Tópico no Microsoft Copilot Studio
+   - Trabalhando com Tópicos de Fallback do Sistema no Microsoft Copilot Studio
+   - Introdução a Entidades e Variáveis no Microsoft Copilot Studio
+   - Criando Entidades Personalizadas no Microsoft Copilot Studio
+   - Criando Variáveis no Microsoft Copilot Studio
+   - Criando Respostas Generativas com IA no Microsoft Copilot Studio
+   - Criando um Copiloto com Fluxo de Conversa Personalizado no Microsoft Copilot Studio
