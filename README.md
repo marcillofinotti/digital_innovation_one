@@ -53,3 +53,5 @@ Cursos:
    - Criando Variáveis no Microsoft Copilot Studio
    - Criando Respostas Generativas com IA no Microsoft Copilot Studio
    - Criando um Copiloto com Fluxo de Conversa Personalizado no Microsoft Copilot Studio
+
+Módulo 6: Integrando com Serviços de IA (7 atividades)
