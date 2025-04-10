@@ -1,3 +1,7 @@
+Módulo 5: Produtividade com Microsoft Copilot Studio
+Desafio: Criando seu primeiro Copiloto no Microsoft Copilot Studio
+
+------------------------------------
 Entendendo o Desafio
 O objetivo deste desafio é criar seu primeiro Copiloto no Microsoft Copilot Studio.
 
@@ -14,8 +18,7 @@ Documentação do Microsoft Copilot Studio: https://learn.microsoft.com/pt-br/mi
 Bons estudos 😉
 
 ------------------------------------
-
-Resumo sobre o que aprendi nas aulas do módulo 5: Produtividade com Microsoft Copilot Studio
+Resumo do aprendizado:
 
 - Escolher o ambiente adequado para cada estágio do projeto, como por exemplo:
 	* Ambiente de Produção: ideal para implantações reais;
