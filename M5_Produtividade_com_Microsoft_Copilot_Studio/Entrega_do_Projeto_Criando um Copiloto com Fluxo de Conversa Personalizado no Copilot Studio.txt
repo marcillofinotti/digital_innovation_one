@@ -1,0 +1,61 @@
+Módulo 5: Produtividade com Microsoft Copilot Studio
+Desafio: Criando um Copiloto com Fluxo de Conversa Personalizado no Copilot Studio
+
+------------------------------------
+Entendendo o Desafio
+O objetivo deste desafio é criar um Copiloto com Fluxo de Conversa Personalizado no Microsoft Copilot Studio.
+
+O que fazer?
+	• Explore a demonstração apresentada no conteúdo prático e faça um resumo do que aprendeu neste conteúdo. Em seguida armazene em um repositório no GitHub e compartilhe o link na entrega do desafio.
+
+Orientações para Entrega
+	• Crie um repositório no GitHub.
+	• Envie em "Entregar Projeto", o link do seu repositório no GitHub.
+
+Materiais de Apoio
+	• Documentação do Microsoft Copilot Studio: https://learn.microsoft.com/pt-br/microsoft-copilot-studio/
+
+Bons estudos 😉
+
+------------------------------------
+Resumo do aprendizado:
+
+- Criar um Copilot em branco
+	• Selecionar o ambiente de trabalho onde será criado o agente.
+	• Clicar em novo agente
+	• Selecionar a linguagem
+	• Coloque o nome do agente
+	• No campo descrição coloque aquilo que o agente será responsável por fazer.
+	• No campo de instruções criar o prompt, que são os comandos/programação do agente, isto é, o código de execução do seu agente. Como sugestão estudar sobre “Engenharia de Prompt”, pois é aqui onde será definido o tom da conversa, linguagem, temperatura e qual será a base de conhecimento do agente, será uma base fechada com conhecimentos selecionados ou será aberta para buscas na internet.
+	• Clique em criar.
+
+- Customizar um tópico
+	• Selecionar a aba Tópicos
+	• Clique para adicionar um tópico em branco
+	• Insira as frases de gatilho
+	• Adicione novas ações conforme necessário
+	• Como exemplo vá na parte avançada e chame uma ação com respostas generativas. Informe a entrada e se necessário configure a fonte de dados. Crie um novo tópico para informar uma mensagem ao usuário.
+	• Se quiser personalizar e melhorar ainda mais a interação com o usuário você pode configurar a sua fonte de dados.
+
+- Personalizar uma mensagem de erro de tópico
+	• A primeira configuração a ser feita é ir em Tópicos >> System e selecionar a opção: “Conversational Boosting”, qualquer conversa que o agente não entender vai direcionar para este tópico.
+	• A outra configuração, ainda dentro de Tópicos >> System, é do “Fallback”. Tudo que falhar vai cair dentro deste tópico.
+	• Na opção: “Conversational Boosting” podemos customizar uma mensagem de erro e parametrizar outros recursos para orientar o usuário. Também existe a opção de permitir ou não que a IA use seu conhecimento geral de base de conhecimento.
+
+- Aumentar/diminuir a qualidade da resposta com GenAI
+	Uma das partes mais importantes do agente, pois são a partir destas parametrizações que customizamos tom da conversa que esperamos com o nosso cliente/usuário.
+	
+	Um dos parâmetros que podemos ajustar é na opção: “Conversational Boosting” (Tópicos >> System). Selecionamos as bases de conhecimentos que fazem parte do agente com opção de ativa-la ou desativa-la conforme necessidade.
+	
+	Outro parâmetro interessante é permitir que o agente utilize seu conhecimento geral, quando habilitado usa o conhecimento do ChatGPT, isto é, existe a opção de restringir o conhecimento do agente com base nas informações selecionadas ou deixar aberto para que busque informações na internet.
+	
+	Ainda dentro da opção: “Conversational Boosting” podemos personalizar o prompt, ficando atento a quantidade de caracteres que apesar de ter sido aumentado pela Microsoft de 2.000 para 8.000 é limitado, uma vez ultrapassado o agente vai falhar podendo retornar um erro genérico para o usuário.
+	
+	O nível da conversa também pode ser customizado em: alto, médio e baixo. Isto quer dizer que podemos moderar o conteúdo que será interpretado pelo agente.
+	
+	Quando customizado em alto teremos um agente mais fidedigno ao conteúdo pesquisado que retornará ao usuário com uma baixa criatividade. Se customizado como baixo será o inverso e retornará conteúdos com menor precisão, porém com alta criatividade. 
+	
+	Assim tanto a Microsoft como outras empresas usam controles estatísticos para avaliar o conteúdo pesquisado e relacioná-lo com a pergunta do usuário, ou seja, o retorno destes conteúdos depende do seu nível de customização para que o agente retorne ou não os conteúdos pesquisados.
+	
+	Além da customização no nível de tópico, temos outra opção de customização a nível de ambiente. Fazemos isto clicando em: “Configurações >> Generative AI” onde habilitamos a opção generativa geral e também selecionamos o nível de “criatividade x precisão” que desejamos para o agente.
+
