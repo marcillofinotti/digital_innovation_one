@@ -1,0 +1,98 @@
+Módulo 6: M6 - Integrando com Serviços de IA
+Desafio: Análise de Sentimentos com Language Studio no Azure AI
+
+Entendendo Desafio 
+	Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! Explore todos os conceitos abordados até aqui, aplique os conhecimentos adquiridos nas aulas e documente sua experiência para demonstrar sua compreensão dos temas discutidos.
+
+Descrição do Desafio
+	Este laboratório tem como objetivo praticar e aprofundar o uso das ferramentas Azure Speech Studio e Language Studio, focando na análise de fala e linguagem natural. O objetivo é desenvolver habilidades práticas na criação de soluções baseadas em inteligência artificial voltadas para voz e linguagem. O entregável é um repositório organizado contendo anotações e insights adquiridos durante a prática, servindo como material de apoio para estudos e futuras implementações.
+
+Objetivos de Aprendizagem 
+	Ao concluir este desafio, você será capaz de: 
+
+	* Aplicar os conceitos aprendidos em um ambiente prático;
+	* Documentar processos técnicos de forma clara e estruturada; 
+	* Utilizar o GitHub como ferramenta para compartilhamento de documentação técnica. 
+
+Entrega do Desafio 
+	Para concluir este desafio, você deverá: 
+
+	1. Assistir a todas as vídeo-aulas
+	Não pule nenhuma etapa! As aulas contêm informações essenciais para o sucesso do seu projeto. 
+
+	2. Criar um repositório público no GitHub contendo: 
+	Um arquivo README.md detalhado 
+	Quaisquer arquivos adicionais que sejam relevantes para documentar sua experiência 
+	Opcionalmente, capturas de tela relevantes organizadas em uma pasta /images 
+
+	3. Enviar o link do seu repositório e uma breve descrição clicando no botão “Entregar Projeto” 
+
+Recursos Úteis 
+Documentações Oficiais 
+	* Explore Speech Studio - Laboratório no Microsoft Learning
+	* Analyze text with Language Studio - Laboratório no Microsoft Learning
+	Materiais Complementares sobre GitHub 
+	* GitHub Quick Start - Repositório com Link para Aulas de Git e GitHub 
+	* GitBook: Formação GitHub Certification - Material textual sobre GitHub
+	* Documentação do GitHub - Guia completo para uso do GitHub 
+	* GitHub Markdown - Guia específico para Markdown no GitHub 
+
+Bons estudos!
+------------------------------------
+
+Pontos Importantes do Aprendizado:
+
+- Análise de texto e resposta a perguntas
+	Apresentação do Language Studio, o estúdio de linguagem da Microsoft.
+	A principal funcionalidade da plataforma é ter um conjunto de ferramentas baseado no cenário de usuário, que vai permitir explorar, criar e integrar recursos de linguagem através de uma plataforma que traz ideias sobre aquilo que estamos escrevendo.
+	Utilizando uma frase como exemplo podemos extrair várias informações como por exemplo: idioma, análise de sentimento, frases-chave, localidade.
+	Um dos objetivos da utilização do Language Studio é fazer uma classificação sobre o texto com base na compreensão do idioma e na classificação personalizada. Isto permite quantificar o número de pessoas que estão felizes ou tristes, a localização e o idioma destas pessoas, ou seja, podemos fazer a análise de sentimentos e palavras-chave.
+	Com isto é possível construir um cenário onde conseguimos extrair informações e analisá-las de forma rápida e com poucas pessoas.
+	Dentro da plataforma também é possível inserir perguntas e repostas, documentos de perguntas frequentes usando bate-papo integrado isto permite fazer uma série de extrações importantes.
+
+- Serviço de bot do Azure
+	Apesar de ser um serviço usado a bastante tempo, evoluiu muito desde a sua criação.
+	O serviço de bot é muito usado no momento em que precisamos atender ou dar o retorno ao nosso usuário, cliente sobre alguma dúvida. Pode ser usado nos serviços de SAC, para receber ligações, e-mail, mensagens por whatsapp, Teams entre outros canais.
+	Basicamente serão usados dois serviços: linguagem de IA do Azure e o serviço de bot do Azure.
+	Para que o serviço de bot seja eficiente a base de conhecimento e a quantidade de informações é fundamental para o sucesso do atendimento.
+	Outro ponto importante é a comunicação multicanal, para maior capilaridade e aproximação com o meu público.
+	Então o serviço de bot do Azure está baseado em uma plataforma baseada em nuvem para o desenvolvimento e gerenciamento de bots. São integrados com a IA language e outros serviços e possui conectividade através de vários canais.
+
+- Compreensão de linguagem coloquial
+	Elementos principais, tríade: Declaração, entidade, intenção.
+	A ideia e conseguir passar uma ordem para ser executada em dispositivo usando a linguagem do dia a dia.
+	Algumas questões devem ser observadas para treinar a IA do dispositivo, por exemplo: como vou treinar o reconhecimento de voz, quais pessoas poderão usar (segurança), conexão com outros dispositivos.
+	Todos os comandos precisam ser interpretados para isto é preciso: receber o áudio, entender o que está sendo falado e executar uma ação. 
+	Reconhecimento e síntese de fala, podemos usar uma API de conversão de texto em fala e vice-versa de forma a gerar uma fala audível ou um texto compreensível. 	Pode ser usado em um cenário de inclusão no caso de pessoas que tenham alguma limitação física, tornar a usabilidade prática e em outro cenário tornar possível ouvir e responder mensagens no aplicativo de carros.
+
+- Link úteis
+	https://aka.ms/ai900-speech
+	https://aka.ms/ai900-text-analysis
+
+- Conhecendo o Estudio de Fala
+	Link para acesso:
+	https://speech.microsoft.com/portal
+	A funcionalidade da ferramenta na prática é converter um arquivo de áudio em texto ou texto em fala.
+	É necessário escolher um idioma e ficar atento as etapas: Introdução; Cenários comuns; Serviços relacionados; Avaliar preço; Uso responsável da IA.
+
+- Conhecendo o Language Studio
+
+	Passo a passo do laboratório:
+	* Criar o recurso e selecionar os itens abaixo;
+	* IA + Machine Learning
+	* Language service
+	* Continue to create your resource
+	* Preencha os campos necessários
+	* Review + create
+	* Create
+	
+	Acesse o link:
+	https://language.cognitive.azure.com/home
+	
+	Selecione:
+	* Classify text
+	* Analyze sentiment and mine opinions
+	* Preencha os campos e insira o arquivo ou cole o texto que será processado
+	* Run
+	
+	Role a tela para acessar os resultados.
