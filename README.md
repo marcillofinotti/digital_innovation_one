@@ -54,7 +54,7 @@ Cursos:
    - Criando Respostas Generativas com IA no Microsoft Copilot Studio
    - Criando um Copiloto com Fluxo de Conversa Personalizado no Microsoft Copilot Studio
 
-Módulo 6: Integrando com Serviços de IA (7 atividades)
+- Módulo 6: Integrando com Serviços de IA (7 atividades)
    - Fundamentos da IA Generativa
    - Conceitos Fundamentais de IA
    - Fundamentos do Aprendizado de Máquina
