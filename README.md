@@ -55,3 +55,9 @@ Cursos:
    - Criando um Copiloto com Fluxo de Conversa Personalizado no Microsoft Copilot Studio
 
 Módulo 6: Integrando com Serviços de IA (7 atividades)
+   - Fundamentos da IA Generativa
+   - Conceitos Fundamentais de IA
+   - Fundamentos do Aprendizado de Máquina
+   - Conceitos de Processamento de Linguagem Natural
+   - Análise de Sentimentos com Language Studio no Azure AI
+   - Trabalhando com Serviços Azure OpenAI
